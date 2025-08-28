@@ -1,2 +1,2 @@
 # multi-node-blockchain
-A Python-based multi-node blockchain with Flask APIs, implementing block addition, node registration, and consensus resolution.
+This project is a simple multi-node blockchain built in Python using Flask for API endpoints. It demonstrates the core blockchain concepts including block creation, hashing, chain validation, node registration, and a consensus algorithm to ensure all nodes maintain the longest valid chain. Users can interact with multiple nodes, add blocks, view chains, and resolve conflicts between nodes.
